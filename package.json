@@ -1,0 +1,15 @@
+{
+    "name": "nuxt-tailwind-watch",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt"
+    },
+    "dependencies": {
+        "core-js": "^3.9.1",
+        "nuxt": "^2.15.3"
+    },
+    "devDependencies": {
+        "@nuxtjs/tailwindcss": "^4.2.0"
+    }
+}
